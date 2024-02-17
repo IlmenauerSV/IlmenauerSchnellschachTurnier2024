@@ -1,1 +1,1 @@
-# Ilmenauer Open
+# Ilmenauer Schnellschach Turnier 2024
